@@ -14,6 +14,13 @@ In this lab, you learned about the basic building block of sequential circuits: 
 ## Names
 
 ## Summary
+For starters, we built our first sequential circuit: the D latch. We completed this by using a switch for
+our data input, and a button as an enable. This allows us to store 1 bit of data by controlling the button.
+Next, we expanded on this idea by making a 4 bit memory system. To do this, we used 2 demultiplexers, one 
+controlled by a button and the other controlled 8 data bits with switches 6 and 7 as our address for accessing
+our storage. The output of these demultiplexers then passed as D and enable for 4 D latches. The output of these 
+D latches then passes to a 4-1 MUX with the same switches as selectors for this MUX to then output corresponding 
+LEDS for our stored four bytes. 
 
 ## Lab Questions
 
