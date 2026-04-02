@@ -12,6 +12,8 @@ In this lab, you learned about the basic building block of sequential circuits: 
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+Sammy Souza
+Eric Harris
 
 ## Summary
 For starters, we built our first sequential circuit: the D latch. We completed this by using a switch for
